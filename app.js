@@ -51,13 +51,13 @@ const app = {
       name: "No No No",
       singer: "KADDY",
       path: "./assets/music/song5.mp3",
-      image: "./assets/img/song6.png",
+      image: "./assets/img/song5.png",
     },
     {
       name: "Bad Habits",
       singer: "JustDan",
-      path: "./assets/music/song7.mp3",
-      image: "./assets/img/song7.png",
+      path: "./assets/music/song6.mp3",
+      image: "./assets/img/song6.png",
     },
     {
       name: "Goals",
